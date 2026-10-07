@@ -93,11 +93,7 @@ Only the audio experience is shown. The video itself stays hidden behind the cas
 
 ## Link behavior
 
--Each link is unique and randomly generated, not based on names or songs.
--Opening a valid link takes the recipient directly to the player.
--A broken or incomplete link shows a friendly "this tape couldn't be read" page with a button to create a new mixtape.
--Anyone who has the full link can see the note and playlist, so avoid sensitive information in notes.
----
+Each link is unique and randomly generated. Opening the link leads the recipient directly to the player. Anyone who has the link can directly see the note and the playlist, so avoid sensitive information.
 
 
 ## Share-data fundamentals
